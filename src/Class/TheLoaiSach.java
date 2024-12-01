@@ -5,7 +5,7 @@
 package Class;
 
 /**
- *
+ * lớp đại diện cho thể loại sách
  * @author admin
  */
 public class TheLoaiSach {
