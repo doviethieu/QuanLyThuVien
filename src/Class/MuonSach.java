@@ -6,6 +6,9 @@ package Class;
 
 import java.util.Date;
 
+/**
+ * Lớp đại diện cho bảng mượn sách .
+ */
 public class MuonSach {
     private int maMuon;
     private String soThe;
