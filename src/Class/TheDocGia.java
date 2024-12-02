@@ -6,6 +6,10 @@ package Class;
 
 import java.util.Date;
 
+
+/**
+ * lớp đại diện cho thẻ độc giả
+ */
 public class TheDocGia {
     private String soThe;
     private int maDocGia;
