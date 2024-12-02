@@ -4,7 +4,9 @@
  */
 package Class;
 import java.util.Date;
-
+/**
+ * lớp đại diện cho độc giả
+ */
 public class DocGia {
     private int maDocGia;
     private String hoTen;
